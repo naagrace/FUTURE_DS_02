@@ -2,38 +2,43 @@
 
  # Campaign Performance Analysis with Power BI
 
+ 📌 Overview
+
+This project was completed as part of Task 2 of my internship with Future Interns. The goal was to analyze an ad campaign dataset from Kaggle using Power BI to uncover insights about campaign performance.
+
+The analysis focuses on key performance metrics such as adspend, conversions, and turning raw data into actionable insights for smarter marketing decisions.
+
 ## 📊 Dashboard Preview  
 ![Campaign Performance Dashboard](Campaign%20Performance%20dashboard.png)
 
 
-📌 Overview
+ 🎯 Objective  
 
-This project was completed as part of Task 2 of my internship with Future Interns. The goal was to analyze an ad campaign dataset from Kaggle using Power BI to uncover insights about campaign performance.
-
-The analysis focuses on key performance metrics such as spend, conversions, and turning raw data into actionable insights for smarter marketing decisions.
+The objective of this project is to analyze an ad campaign dataset from Kaggle using Power BI and uncover insights into campaign performance metrics.  
+This includes identifying trends in reach, impressions, engagement, click-through rate (CTR), and conversions to evaluate overall effectiveness.  
+The analysis aims to highlight which campaigns performed best and provide data-driven insights to improve future marketing strategies.
 
 📊 Dataset
 
 Source: Kaggle Ad Campaign Dataset (https://www.kaggle.com/datasets/rabieelkharoua/predict-conversion-in-digital-marketing-dataset)
 
-Contains details on campaign platforms, influencer categories, campaign types, and spend/conversions
 
-Cleaned and visualized in Power BI
+🛠 Tools Used
+Power BI Desktop – for data modeling and visualization.
+Power Query – for data cleaning and transformation.
+DAX (Data Analysis Expressions) – for calculated measures.
 
-🔍 Key Insights
+
+ 🔍Key Insights
 
 Ad Spend vs. Conversions: Helped identify which campaigns delivered more conversions
 
 Campaign Performance Metrics: Highlighted the most effective platforms and strategies
 
-Smarter Decisions: Showed how tracking adspend and cost per conversion helps campaigns adjust to improve ROI
+Smarter Decisions: Showed how tracking ad spend and cost per conversion helps campaigns adjust to improve ROI
 
-🛠 Tools Used
 
-Power BI → For data cleaning, modeling, and visualization
+## 👩‍💻 Author  
 
-Kaggle Dataset → As the data source
-
-🎯 Key Lesson
- 
-Data-driven analysis transforms marketing from guesswork to strategy. Tracking spend against conversions gives clear insights into what works, what doesn’t, and where to optimize.
+- **Name:** Grace Okine
+- **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/graceokine)
