@@ -3,8 +3,8 @@
  # Campaign Performance Analysis with Power BI
 
 ## 📊 Dashboard Preview  
+![Campaign Performance Dashboard](Campaign%20Performance%20dashboard.png)
 
-[![Campaign Performance Dashboard]("Campaign Performance dashboard.png")]("Campaign Performance dashboard.png")
 
 📌 Overview
 
