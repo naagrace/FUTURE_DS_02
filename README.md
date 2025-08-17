@@ -24,9 +24,13 @@ Source: Kaggle Ad Campaign Dataset (https://www.kaggle.com/datasets/rabieelkharo
 
 
 🛠 Tools Used
+
 Power BI Desktop – for data modeling and visualization.
+
 Power Query – for data cleaning and transformation.
+
 DAX (Data Analysis Expressions) – for calculated measures.
+
 
 
  🔍Key Insights
